@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+Npm i
 ```
 
 ### Compiles and hot-reloads for development
@@ -24,6 +24,4 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Projetinho base para estar organizando as tarefas do dia a dia
